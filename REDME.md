@@ -32,6 +32,7 @@ Este projeto contém testes automatizados para os cenários de login do sistema 
 - Cypress
   Para instalar o cypress abra o terminal e use os comando: "npm install cypress --save-dev" (Isso instalará a ultima versão do cypress)
 - VsCode (https://code.visualstudio.com/download)
+- Git para versionamento e clonagem do projeto
 
 ## Instalação
 
