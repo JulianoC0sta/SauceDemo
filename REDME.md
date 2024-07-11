@@ -55,9 +55,9 @@ Para executar os testes, siga os seguintes passos:
 
 ## Comandos Personalizados dentro da pasta `commands.js`
 
-    `loginValido` - Realiza o login com um usuário válido definido em cypress.env.json.
+    `loginValido` - Realiza o login com um usuário válido definido em cypress.env.json;
 
-    `loginInvalido` - Realiza a tentativa de login com um usuário e senha inválidos, definido em cypress.env.json.
+    `loginInvalido` - Realiza a tentativa de login com um usuário e senha inválidos, definido em cypress.env.json;
 
 ## RESUMO
 
