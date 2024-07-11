@@ -28,11 +28,11 @@ Este projeto contém testes automatizados para os cenários de login do sistema 
 
 ## Pré-requisitos para execução deste teste
 
-- Node.js (você pode baixá-lo em https://nodejs.org)
-- Cypress
-  Para instalar o cypress abra o terminal e use os comando: "npm install cypress --save-dev" (Isso instalará a ultima versão do cypress)
-- VsCode (https://code.visualstudio.com/download)
-- Git para versionamento e clonagem do projeto
+- Node.js (você pode baixá-lo em https://nodejs.org);
+- Cypress;
+  Para instalar o cypress abra o terminal e use os comando: "npm install cypress --save-dev" (Isso instalará a ultima versão do cypress);
+- VsCode (https://code.visualstudio.com/download);
+- Git para versionamento e clonagem do projeto;
 
 ## Instalação
 
