@@ -43,6 +43,7 @@ Para instalar as dependências do projeto, execute o seguinte comando na raiz do
 ## Executando os Testes
 
 Para executar os testes, siga os seguintes passos:
+- Clone o projeto ou baixa a pasta zipada;
 - Abra o terminal e criei um pasta utilizando o comando `mkdir NOME DESEJADO`;
 - Baixe o projeto "TESTETA" jogue dentro da pasta criada;
 - Com VsCode aberto, clique no menu "Arquivo", selecione a opção "Abrir pasta" e navegue até o diretório onde se encontra a pasta "TESTETA" e abra ela;
