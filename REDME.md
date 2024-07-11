@@ -38,7 +38,7 @@ Este projeto contém testes automatizados para os cenários de login do sistema 
 
 Para instalar as dependências do projeto, execute o seguinte comando na raiz do projeto:
 
-npm install
+`npm install`
 
 ## Executando os Testes
 
