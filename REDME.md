@@ -1,6 +1,6 @@
 # Cypress Automation Project - SauceDemo
 
-Este projeto contém testes automatizados para os cenários de login do sistema Sauce demo, utilizando o cypress e o modelo de Comandos customizados onde é criado as funções e utilizado nos testes.
+Este projeto contém testes automatizados para os cenários de login do sistema Sauce demo, utilizando o cypress e o modelo de Comandos customizados onde é criado as funções reutilizaveis nos testes.
 
 ## Estrutura de Pastas e Arquivos
 
