@@ -4,7 +4,7 @@ Este projeto contém testes automatizados para os cenários de login do sistema 
 
 ## Estrutura de Pastas e Arquivos
 
-- **e2e/checkout/sauceDemo.cy.js**: Arquivo contendo os testes para os fluxos de login válido e inválido.
+- **e2e/checkout/sauceDemo.cy.js**: Arquivo  contendo os testes para os fluxos de login válido e inválido.
 
 - **fixtures/**: Pasta para armazenar fixtures de teste. No momento, está vazia.
 
