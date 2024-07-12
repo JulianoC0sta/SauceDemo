@@ -51,7 +51,7 @@ Para executar os testes, siga os seguintes passos:
 
 - Digite o comando `npx cypress open`
 -- Isso abrirá a interface do Cypress, onde você irá selecionar "E2E Testing" e poderá selecionar o navegador que deseja executar os testes --
-- Clique em "Start E2E Testing in <Navegador_escolhido>"
+- Clique em "Start E2E Testing in <Navegador_escolhido>";
 - Clique em "sauceDemo.cy.js";
 
 ## Comandos Personalizados dentro da pasta `commands.js`
